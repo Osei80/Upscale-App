@@ -1,0 +1,5 @@
+{
+  "name": "BananaScale Pro",
+  "description": "High-fidelity image upscaler powered by Gemini Nano Banana Pro models. Supports up to 4K resolution enhancements.",
+  "requestFramePermissions": []
+}
